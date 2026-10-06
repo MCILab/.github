@@ -7,4 +7,4 @@
     <p>Map And Cartography Innovation Lab</p>
 </h1>
 
-MCILab là nhóm cộng sự cùng nghiên cứu, thử nghiệm và phát triển các ý tưởng trong lĩnh vực bản đồ và dữ liệu không gian.
+MCILab is a collaborative group researching, experimenting with, and developing ideas in mapping and geospatial data.
